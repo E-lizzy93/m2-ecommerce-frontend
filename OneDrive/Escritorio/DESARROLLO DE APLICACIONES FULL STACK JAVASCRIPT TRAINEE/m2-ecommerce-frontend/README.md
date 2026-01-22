@@ -28,8 +28,9 @@ El diseño se basa en referencias visuales entregadas como ejemplo durante el de
 
 
 ## Capturas
-![Home](assets/img/captura-home.png)
-![Detalle](assets/img/captura-detalle.png)
+![Home](assets/img/captura de pantalla home.png)
+![Listado](assets/img/captura de pantalla listado prod.png)
+![Detalle](assets/img/captura de pantalla produco.png)
 
 ## Autor
-Tu nombre — enlace a tu perfil de GitHub
+https://github.com/E-lizzy93
